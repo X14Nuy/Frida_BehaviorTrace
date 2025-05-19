@@ -1,0 +1,2 @@
+# Frida_BehaviorTrace
+安卓逆向：当分析一个复杂的native层函数时，这个脚本可以辅助分析调用的libc函数和jni函数的层级，帮助理解这个复杂函数在做什么。
